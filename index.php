@@ -19,7 +19,6 @@
   <div class="container mt-5">
     <div class="card-header bg-primary text-white d-flex justify-content-between">
       <h3>HOME</h4>
-       <a href="form.php" class="btn btn-success">ADD</a>
     </div>
     <div class="card-body">
       <div class="table-responsive">
@@ -60,6 +59,7 @@
           </div>
        </div>
       </table>
+     <a href="form.php" class="btn btn-success">ADD</a>
 
 
   <?php
